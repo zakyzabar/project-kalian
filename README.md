@@ -5879,3 +5879,18 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+11. {https://warungexpomatika.c1.is/}
+    selamat malam pak
+    perkenalkan nama saya zacky anugrah akbar
+
+    izin bertanya mengenai website yang saya buat untuk tugas kuliah saat uas kemarin tiba tiba tidak bisa diakses padahal status hosting dan ssl aktif, ini adalah project uas saya tentang sebuah warung yang berusaha mengikuti dunia digital
+
+botstrap
+php
+codeigniter3
+
+Terimakasih
+
+github: https://github.com/zakyzabar/warungexpomatika
+website: https://warungexpomatika.c1.is/
